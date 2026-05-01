@@ -59,5 +59,12 @@ java TaskManager printAllTasks
 java TaskManager markAsComplete 1
 ```
 
+## 🔗 Reference
+
+This project is inspired by the [Task Tracker](https://roadmap.sh/projects/task-tracker) project on [roadmap.sh](https://roadmap.sh).
+URL: https://roadmap.sh/projects/task-tracker
+
+
 ---
 *Created as part of the Java Roadmap Projects.*
+
